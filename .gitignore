@@ -82,3 +82,4 @@ docker-compose.override.yml
 /webapp_server/config.py
 nginx_config
 chat-bot.py
+templates/index.html
